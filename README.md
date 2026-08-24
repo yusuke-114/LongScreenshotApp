@@ -1,2 +1,2 @@
-# long-screenshot-privacy-policy
+# Privacy Policy
 Privacy Policy for Long Screenshot App
