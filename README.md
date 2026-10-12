@@ -1,5 +1,5 @@
 <p>
-  <img src="docs/assets/longscreenshot-icon.png" alt="Long Screenshot icon" width="96">
+  <img src="docs/assets/app-icon.png" alt="Long Screenshot icon" width="96">
 </p>
 
 # Long Screenshot
